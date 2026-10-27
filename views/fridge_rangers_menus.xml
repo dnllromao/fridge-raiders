@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <menuitem id="fridge_rangers_menu_root" name="Fridge Rangers">
+        <menuitem id="fridge_rangers_menu_items" name="Items" action="fridge_rangers_item_action"/>
+    </menuitem>
+
+</odoo>
